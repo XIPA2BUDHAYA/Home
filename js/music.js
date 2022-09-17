@@ -7,4 +7,3 @@ function williamns() {
         new Audio(files[Math.floor(Math.random() * files.length)]).play();
     })
 }
-williamns()
